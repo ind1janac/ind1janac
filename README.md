@@ -1,18 +1,18 @@
-🐧 OS and tools:
+🐧 Technologies i enjoy using:
 Arch linux
 Kali Linux
 DWM
 Dmenu
 St
 Feh
-Vim
 VSCode
+
+
 
 🕸️ Programming languages
 None for now planned to learn:
-Perl
+
 Python
-Ruby
 Bash
 C
 
@@ -20,3 +20,4 @@ C
 
 Python
 Web penetration testing
+
