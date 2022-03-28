@@ -1,22 +1,21 @@
-🐧 Technologies i enjoy using:
-- Arch linux
--DWM
--Dmenu
--St
--Feh
--VSCode
+- 🐧 Tools that I enjoy using
+  - Arch linux
+  - DWM
+  - Dmenu
+  - St
+  - Feh
+  - Vim
 
 
+- 🕸 Programming languages
+	- C/C++
+	- Pascal
+	- x86_64 Assembly (NASM)
+  - Python
+  - Ruby
+  - Bash
 
-🕸️ Programming languages
-None for now planned to learn:
-
--Python
--Bash
--C
-
-⭐ I'm currently learning:
-
-Python
-Web penetration testing
-
+- ⭐️ I'm currently learning
+	- Rust
+	- Haskell
+	- Web penetration testing
